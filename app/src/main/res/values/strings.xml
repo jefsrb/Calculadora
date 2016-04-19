@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="primeiro_valor">Primeiro valor:</string>
+</resources>
